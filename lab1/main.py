@@ -15,7 +15,7 @@ def create_2d_array(input_str):
 def min_path_sum(matrix):
     if not matrix:
         return 0
-
+#test
     rows = len(matrix)
     cols = len(matrix[0])
 
